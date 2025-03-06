@@ -36,7 +36,7 @@ Making edits to existing profiles for slightly newer or older versions of a spec
 
 Known issues: There are specific fields set up for 1.12 emulators as well. But you may have issues with Cataclysm and newer versions of WoW.
 
-You can contribute any profiles you create at [Krigsgaldrnet/TrinityCreatorProfiles](https://github.com/NotCoffee418/TrinityCreatorProfiles).
+You can contribute any profiles you create at [NotCoffee418/TrinityCreatorProfiles](https://github.com/NotCoffee418/TrinityCreatorProfiles).
 
 ### Documentation ###
 - [Installing & Using Trinity Creator](https://github.com/NotCoffee418/TrinityCreator/wiki/Installing-&-Using-Trinity-Creator)
