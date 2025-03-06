@@ -1,7 +1,8 @@
 # Trinity Creator #
-[![Github All Releases](https://img.shields.io/github/v/release/notcoffee418/trinitycreator?include_prereleases)](https://github.com/NotCoffee418/TrinityCreator/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/notcoffee418/trinitycreator/total.svg?style=flat)](https://github.com/NotCoffee418/TrinityCreator/releases)
-[![Discord Chat](https://img.shields.io/discord/717556942071005305.svg)](https://discord.gg/gUXwShK)
+[![Github All Releases](https://img.shields.io/github/v/release/Krigsgaldrnet/trinitycreator?include_prereleases)](https://github.com/Krigsgaldrnet/TrinityCreator/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/Krigsgaldrnet/trinitycreator/total.svg?style=flat)](https://github.com/Krigsgaldrnet/TrinityCreator/releases)
+
+Please support the original Creator:
 [![Donate](https://img.shields.io/liberapay/patrons/NotCoffee418.svg?logo=liberapay)](https://liberapay.com/NotCoffee418/donate)
 
 Trinity Creator is a database interface that helps World of Warcraft server developers with creating items, creatures, quests and more.  
@@ -16,7 +17,7 @@ Trinity Creator is NOT a hack. You cannot use it to insert items in the private 
 It's strictly used to help server admins with custom content development.  
 
 ### Getting started ###
-* [Download & install the latest version](https://github.com/NotCoffee418/TrinityCreator/releases/latest)
+* [Download & install the latest version](https://github.com/Krigsgaldrnet/TrinityCreator/releases/latest)
 * Use the top menu to select your emulator
 * Enter your database info & DBC directory (optional, adds extra features)
 * Start creating!
@@ -35,13 +36,11 @@ Making edits to existing profiles for slightly newer or older versions of a spec
 
 Known issues: There are specific fields set up for 1.12 emulators as well. But you may have issues with Cataclysm and newer versions of WoW.
 
-You can contribute any profiles you create at [NotCoffe418/TrinityCreatorProfiles](https://github.com/NotCoffee418/TrinityCreatorProfiles).
+You can contribute any profiles you create at [Krigsgaldrnet/TrinityCreatorProfiles](https://github.com/NotCoffee418/TrinityCreatorProfiles).
 
 ### Documentation ###
 - [Installing & Using Trinity Creator](https://github.com/NotCoffee418/TrinityCreator/wiki/Installing-&-Using-Trinity-Creator)
 - [Adding Emulator Support](https://github.com/NotCoffee418/TrinityCreator/wiki/Adding-Emulator-Support)
 
-### Support ###
-If you need help setting up or using Trinity Creator, you can join us on [Discord](https://discord.gg/gUXwShK).  
+### Support ### 
 Please ***DO NOT share private information*** such as database login or public IP adress with anyone.  
-[![Discord Support](https://img.shields.io/discord/717556942071005305.svg)](https://discord.gg/gUXwShK) 
